@@ -1,2 +1,2 @@
-# leaflet-map-simple-sample
-Instructor's sample of Leaflet-map-simple template
+# leaflet-map-simple-instructor-sample
+Instructor's sample of leaflet-map-simple template
