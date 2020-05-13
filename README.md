@@ -1,8 +1,5 @@
 # leaflet-map-simple-instructor-sample
-Instructor's sample of leaflet-map-simple template
+Instructor's sample of leaflet-map-simple template for https://HandsOnDataViz.org book
 
 ## published live site
-https://jackdougherty.github.io/leaflet-map-simple-instructor-sample/index.html
-
-## see tutorial in DataVizForAll.org book
-https://www.datavizforall.org/github/fork-leaflet
+https://handsondataviz.github.io/leaflet-map-simple-instructor-sample/index.html
