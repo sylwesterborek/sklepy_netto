@@ -21,20 +21,26 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Higher Ed in Hartford Region 1614</div>
+  <div id="map-title">Czeladź 1739</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
   <script>
 
   /* Set up the map with initial center and zoom level */
-  var map = L.map('map', {
-    center: [41.77, -72.69], // EDIT latitude, longitude to re-center map
-    zoom: 12,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+  //var map = L.map('map', {
+  //  center: [41.77, -72.69], // EDIT latitude, longitude to re-center map
+  //  zoom: 12,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
+  //  scrollWheelZoom: false
+  //});
+
+   var map = L.map('map', {
+    center: [50.30, 19.09], // EDIT latitude, longitude to re-center map
+    zoom: 15,  // EDIT from 1 to 18 -- decrease to zoom out, increase to zoom in
     scrollWheelZoom: false
   });
-
-  /* Control panel to display map layers */
+    
+   /* Control panel to display map layers */
   var controlLayers = L.control.layers( null, null, {
    position: "topright",
    collapsed: false
