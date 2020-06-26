@@ -21,7 +21,7 @@
 <body>
 
   <!-- Display the map and title with HTML division tags  -->
-  <div id="map-title">Czeladź 1808</div>
+  <div id="map-title">Czeladź 1428</div>
   <div id="map"></div>
 
   <!-- Create the map content with JavaScript (.js) -->
@@ -68,7 +68,7 @@
      layer.bindPopup(feature.properties.Title);
    }
   });
-  var runLayer = omnivore.csv('data.csv', null, customLayer)
+  var runLayer = omnivore.csv('Data_N.csv', null, customLayer)
   .on('ready', function() {
    map.fitBounds(runLayer.getBounds());
   }).addTo(map);
