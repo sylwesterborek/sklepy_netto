@@ -1,0 +1,385 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+Sklep 1,"ALEKSANDRÓW KUJAWSKI, ul. Narutowicza 4",52.877847,18.6928429,"Gabriela Narutowicza 4, 87-700 Aleksandrów Kujawski, Poland",Match,Google
+Sklep 2,"ANDRYCHÓW, ul. Starowiejska 27",49.8596752,19.3470133,"Starowiejska 27, 34-120 Andrychów, Poland",Match,Google
+Sklep 3,"BARLINEK, ul. Dworcowa 1",52.997677,15.219266,"Dworcowa 1, 74-320 Barlinek, Poland",Match,Google
+Sklep 4,"BARTOSZYCE, ul. Bema 33A",54.25798,20.8066241,"gen. Józefa Bema 33A, 11-200 Bartoszyce, Poland",Match,Google
+Sklep 5,"BĘDZIN, al. Kołłątaja 103",50.3235703,19.1535086,"aleja Hugona Kołłątaja 103, 42-500 Będzin, Poland",Match,Google
+Sklep 6,"BIAŁE BŁOTA, ul. Altanowa 2a",53.101467,17.922455,"Altanowa 2A, 86-005 Białe Błota, Poland",Match,Google
+Sklep 7,"BIAŁOGARD, ul. 1-Maja 9",54.007003,15.98592,"1 Maja 9, 78-200 Białogard, Poland",Match,Google
+Sklep 8,"BIAŁOGARD, ul. Drzymały 31",54.0075919,15.9781363,"Drzymały 31, 78-200 Białogard, Poland",Match,Google
+Sklep 9,"BIELANY WROCŁAWSKIE, ul. Wrocławska 13B",51.0400605,16.9696333,"Wrocławska 13B, 55-040 Bielany Wrocławskie, Poland",Match,Google
+Sklep 10,"BIELAWA, ul. 1-go Maja 2a",50.6878801,16.6226581,"1-go Maja 4a, 58-260 Bielawa, Poland",Match,Google
+Sklep 11,"BIELSKO-BIAŁA, ul. Daszyńskiego 51",49.8490475,19.0498616,"Ignacego Daszyńskiego 51, 43-346 Bielsko-Biała, Poland",Match,Google
+Sklep 12,"BLIZNE JASIŃSKIEGO, ul. Warszawska 142",52.2438478,20.8657461,"Warszawska 142, 05-082 Blizne Jasińskiego, Poland",Match,Google
+Sklep 13,"BOGATYNIA, ul. Pocztowa 12",50.9079032,14.9569355,"Pocztowa 12, 59-920 Bogatynia, Poland",Match,Google
+Sklep 14,"BRANIEWO, ul. Żeromskiego 17",54.3869863,19.8332418,"Żeromskiego 17, 14-500 Braniewo, Poland",Match,Google
+Sklep 15,"BRODNICA, ul. 18 Stycznia 38b",53.244687,19.4055049,"18 Stycznia 38B, 87-300 Brodnica, Poland",Match,Google
+Sklep 16,"BRWINÓW, ul. Powstańców Warszawy 2A",52.1434232,20.7190948,"Powstańców Warszawy 2a, 05-840 Brwinów, Poland",Match,Google
+Sklep 17,"BRZEG, ul. 1 Maja 4",50.8524037,17.4661699,"1 Maja 4, 49-300 Brzeg, Poland",Match,Google
+Sklep 18,"BRZEG DOLNY, ul. Aleje Jerozolimskie 42a",51.2708408,16.7090353,"Aleje Jerolozolimskie, Aleje Jerozolimskie 42a, 56-121 Brzeg Dolny, Poland",Match,Google
+Sklep 19,"BRZESZCZE, ul. Lisowce 4",49.974286,19.1407269,"Lisowce 4, 32-620 Brzeszcze, Poland",Match,Google
+Sklep 20,"BUK, ul. Przemysłowa 2",52.3514318,16.5251315,"Przemysłowa 2, 64-320 Buk, Poland",Match,Google
+Sklep 21,"BYDGOSZCZ, ul. Wojska Polskiego 8a",53.1141547,18.0175993,"Wojska Polskiego 8A, 85-162 Bydgoszcz, Poland",Match,Google
+Sklep 22,"BYDGOSZCZ, ul. Bielicka 21",53.1136907,17.9572177,"Ikar ul, Szubińska, 85-312 Bydgoszcz, Poland",Match,Google
+Sklep 23,"BYDGOSZCZ, ul. Osówiec 72",53.148171,17.9206845,"Osówiec 72, 86-014, Poland",Partial Match,Google
+Sklep 24,"BYDGOSZCZ, ul. Stawowa 37",53.1214785,17.9698206,"Stawowa 37, 85-323 Bydgoszcz, Poland",Match,Google
+Sklep 25,"BYDGOSZCZ, ul. Stawowa 63",53.1175329,17.956453,"Stawowa 63, 85-323 Bydgoszcz, Poland",Match,Google
+Sklep 26,"BYDGOSZCZ, ul. Twardzickiego 40",53.152487,18.136421,"Józefa Twardzickiego 40, 85-796 Bydgoszcz, Poland",Match,Google
+Sklep 27,"BYSTRZYCA KŁODZKA, ul. Mickiewicza 3",50.299954,16.646314,"Adama Mickiewicza 3, 57-500 Bystrzyca Kłodzka, Poland",Match,Google
+Sklep 28,"BYTOM, ul. Łużycka 82a",50.3546896,18.8975527,"Łużycka 82a, 41-902 Bytom, Poland",Match,Google
+Sklep 29,"BYTOM, ul. Strzelców Bytomskich 228",50.3913576,18.8814547,"Strzelców Bytomskich 228, 41-933 Bytom, Poland",Match,Google
+Sklep 30,"BYTOM, ul. Wrocławska 134",50.3510596,18.8878286,"Wrocławska 134, 41-902 Bytom, Poland",Match,Google
+Sklep 31,"BYTÓW, ul. Gen.Sikorskiego 42",54.17351,17.490043,"Generała Sikorskiego 42, 84-342 Bytów, Poland",Match,Google
+Sklep 32,"CHEŁMNO, ul. Polna 6",53.350611,18.437185,"Polna 6, 86-200 Chełmno, Poland",Match,Google
+Sklep 33,"CHEŁMŻA, ul. Gen.Wł.Sikorskiego 36a",53.1847768,18.6036408,"Generała Władysława Sikorskiego 36a, 87-140 Chełmża, Poland",Match,Google
+Sklep 34,"CHOCIANÓW, ul. Dominialnia 18",51.417518,15.893617,"Dominialna 18, 59-140 Chocianów, Poland",Partial Match,Google
+Sklep 35,"CHOJNA, ul. Kościuszki 19",52.959194,14.4344999,"Kościuszki 19, 74-500 Chojna, Poland",Match,Google
+Sklep 36,"CHOJNICE, ul. Niepodległości 3a",53.6937342,17.5642381,"Plac Niepodległości 3A, 89-620 Chojnice, Poland",Match,Google
+Sklep 37,"CHOJNICE, ul. Człuchowska 57 b",53.6938895,17.5440964,"Człuchowska 57b, 89-600 Chojnice, Poland",Match,Google
+Sklep 38,"CHOJNÓW, ul. Legnicka 68",51.269196,15.9479599,"Legnicka 68, 59-224 Chojnów, Poland",Match,Google
+Sklep 39,"CHORZÓW, ul. 3 Maja 89",50.302031,18.9377201,"3 Maja 89, 41-500 Chorzów, Poland",Match,Google
+Sklep 40,"CHORZÓW, ul. Hajducka 57",50.2870193,18.949873,"Hajducka 57, 41-500 Chorzów, Poland",Match,Google
+Sklep 41,"CHORZÓW, ul. Racławicka 20",50.2801722,18.9510881,"Racławicka 20, 41-506 Chorzów, Poland",Match,Google
+Sklep 42,"CHOSZCZNO, ul. Bohaterów Warszawy 19",53.170372,15.416905,"Bohaterów Warszawy 19, 73-200 Choszczno, Poland",Match,Google
+Sklep 43,"CHRZANÓW, ul. Stara Huta 2A",50.1361391,19.4002178,"Stara Huta 2A, 32-500 Chrzanów, Poland",Match,Google
+Sklep 44,"CZAPLINEK, ul. Bydgoska 2",53.5541049,16.2368354,"Bydgoska 2, 78-440 Czaplinek, Poland",Match,Google
+Sklep 45,"CZECHOWICE-DZIEDZICE, ul. Jana Kasprowicza 44",49.9210371,19.0055687,"Jana Kasprowicza 44, 43-500 Czechowice-Dziedzice, Poland",Match,Google
+Sklep 46,"CZELADŹ, ul. Lwowska 2a",50.30785,19.0943455,"Lwowska 2a, 41-253 Czeladź, Poland",Match,Google
+Sklep 47,"CZERSK, ul. Marsz. J. Piłsudskiego 2",53.7992246,17.9753605,"Marszałka Józefa Piłsudskiego 2, 89-650 Czersk, Poland",Match,Google
+Sklep 48,"CZERWIONKA, ul. 3 Maja 38",50.1539806,18.6668837,"3 Maja 38, 44-230 Czerwionka-Leszczyny, Poland",Match,Google
+Sklep 49,"CZĘSTOCHOWA, ul. Bór 41A",50.7924099,19.127076,"Bór 41A, 42-202 Częstochowa, Poland",Match,Google
+Sklep 50,"CZĘSTOCHOWA, ul. Warszawska 359",50.8405409,19.1639619,"Warszawska 359, 42-209 Częstochowa, Poland",Match,Google
+Sklep 51,"CZĘSTOCHOWA, ul. Św. Barbary 77",50.8039029,19.0911561,"Świętej Barbary 77, 42-226 Częstochowa, Poland",Match,Google
+Sklep 52,"CZŁUCHÓW, Plac Wolności 1",53.667292,17.357621,"Plac Wolności 1, 77-300 Człuchów, Poland",Match,Google
+Sklep 53,"DARŁOWO, ul. Lutosławskiego 2",54.419208,16.416648,"Witolda Lutosławskiego 2, 76-150 Darłowo, Poland",Match,Google
+Sklep 54,"DĄBROWA GÓRNICZA, ul. 11 Listopada 22",50.3266179,19.2195699,"11 Listopada 22, 41-300 Dąbrowa Górnicza, Poland",Match,Google
+Sklep 55,"DĘBNO, ul. Mickiewicza 13",52.739478,14.700276,"Adama Mickiewicza 13, 74-400 Dębno, Poland",Match,Google
+Sklep 56,"DĘBNO, ul. Kostrzyńska 31",52.7223374,14.6939071,"Kostrzyńska 31, 74-400 Dębno, Poland",Match,Google
+Sklep 57,"DOBRA, ul. Szczecińska 7",53.487165,14.390264,"Szczecińska 7, 72-003 Dobra, Poland",Match,Google
+Sklep 58,"DOBRE MIASTO, ul. Fabryczna 9",53.988633,20.389587,"Fabryczna 9, 11-040 Dobre Miasto, Poland",Match,Google
+Sklep 59,"DRAWSKO POM., ul. Gdyńska 4a",53.5313919,15.805836,"Gdyńska 4a, 78-500 Drawsko Pomorskie, Poland",Match,Google
+Sklep 60,"DREZDENKO, ul. Kościuszki 20",52.836657,15.831222,"Kościuszki 20, 66-530 Drezdenko, Poland",Match,Google
+Sklep 61,"DZIAŁDOWO, ul. Grunwaldzka 1a",53.2369189,20.1702919,"Grunwaldzka 1a, 13-200 Działdowo, Poland",Match,Google
+Sklep 62,"DZIERŻONIÓW, ul. Batalionów Chłopskich 10",50.7251444,16.6530896,"Batalionów Chłopskich 10, 58-200 Dzierżoniów, Poland",Match,Google
+Sklep 63,"GARWOLIN, Al. Legionów 1",51.893459,21.619543,"aleja Legionów 1, 08-400 Garwolin, Poland",Match,Google
+Sklep 64,"GDAŃSK, ul. Kalinowa 3",54.3521178,18.5129582,"Kalinowa 3, 80-177 Gdańsk, Poland",Match,Google
+Sklep 65,"GDAŃSK, ul. Rajska 10",54.3564868,18.6488738,"Rajska 10, 80-850 Gdańsk, Poland",Match,Google
+Sklep 66,"GDAŃSK, ul. Rakoczego 13",54.3583718,18.5832396,"Rakoczego 13, 80-288 Gdańsk, Poland",Match,Google
+Sklep 67,"GDAŃSK, ul. Świętokrzyska 50",54.3210034,18.5971688,"Świętokrzyska 50, 80-180 Gdańsk, Poland",Match,Google
+Sklep 68,"GDAŃSK, ul. Warszawska 19",54.3361753,18.5973221,"Warszawska 19, 80-980 Gdańsk, Poland",Match,Google
+Sklep 69,"GDAŃSK STRASZYN, ul. Objazdowa 5A",54.27899,18.593321,"Objazdowa 5A, 83-010 Straszyn, Poland",Match,Google
+Sklep 70,"GDYNIA, ul. Pucka 1",54.5434928,18.4687884,"Pucka 1, 81-036 Gdynia, Poland",Match,Google
+Sklep 71,"GDYNIA POGÓRZE, ul. Stefana Czarnieckiego 2",54.563932,18.499786,"Stefana Czarnieckiego 2, 81-198 Gdynia, Poland",Match,Google
+Sklep 72,"GLIWICE, ul. Kurpiowska 2c",50.3216423,18.7019588,"Kurpiowska 2C, 44-105 Gliwice, Poland",Match,Google
+Sklep 73,"GLIWICE, ul. Lotników 78",50.2819493,18.6757649,"Lotników 78, 44-100 Gliwice, Poland",Match,Google
+Sklep 74,"GŁOGÓW, ul. Armii Krajowej 21",51.6619789,16.075677,"Armii Krajowej 21, 67-210 Głogów, Poland",Match,Google
+Sklep 75,"GŁOGÓW, ul. Kazimierza Wielkiego 103",51.652539,16.104065,"Kazimierza Wielkiego 103, 67-200 Głogów, Poland",Match,Google
+Sklep 76,"GŁUCHOŁAZY, ul. Grunwaldzka 2D",50.317654,17.3895318,"Grunwaldzka 2D, 48-340 Głuchołazy, Poland",Match,Google
+Sklep 77,"GNIEW, ul. Lipowa 1",53.8382993,18.8163294,"Lipowa 1, 83-140 Gniew, Poland",Match,Google
+Sklep 78,"GNIEZNO, ul. Żwirki i Wigury 2",52.53895,17.6077449,"Żwirki i Wigury 2, 62-200 Gniezno, Poland",Match,Google
+Sklep 79,"GOLENIÓW, ul. Władysława Jagiełły 16",53.5676333,14.8330208,"Króla Władysława Jagiełły 16, 72-100 Goleniów, Poland",Match,Google
+Sklep 80,"GOLENIÓW, ul. Szczecińska 2",53.562675,14.825721,"Szczecińska 2, 72-100 Goleniów, Poland",Match,Google
+Sklep 81,"GOŁKÓW, ul. Pułku IV Ułanów 1C",52.0478057,20.9887461,"Pułku IV Ułanów 1c, 05-502 Gołków, Poland",Match,Google
+Sklep 82,"GORZÓW WIELKOPOLSKI, ul. Czarnieckiego 11",52.7536695,15.2337904,"Czarnieckiego 11, 66-400 Gorzów Wielkopolski, Poland",Match,Google
+Sklep 83,"GORZÓW WIELKOPOLSKI, ul. Szarych Szeregów 10",52.7614571,15.2708087,"Szarych Szeregów 10, 66-400 Gorzów Wielkopolski, Poland",Match,Google
+Sklep 84,"GORZÓW WIELKOPOLSKI, ul. Matejki 46a",52.7353803,15.2095766,"Matejki 46A, 66-400 Gorzów Wielkopolski, Poland",Match,Google
+Sklep 85,"GORZÓW WIELKOPOLSKI, ul. Piłsudskiego 13",52.7429688,15.2434306,"Piłsudskiego 13, 66-400 Gorzów Wielkopolski, Poland",Match,Google
+Sklep 86,"GORZÓW WIELKOPOLSKI, ul. Fabryczna 5",52.727219,15.239663,"Fabryczna 5, 66-400 Gorzów Wielkopolski, Poland",Match,Google
+Sklep 87,"GOSTYNIN, ul. Legionów Polskich 16",52.4245258,19.4586087,"Legionów Polskich 16, 09-500 Gostynin, Poland",Match,Google
+Sklep 88,"GOSTYŃ, Pl. Marcinkowskiego 12",51.882307,17.013036,"plac Karola Marcinkowskiego 12, 63-800 Gostyń, Poland",Match,Google
+Sklep 89,"GÓRA, ul. Targowa 3",51.667046,16.5366221,"Targowa 3, 56-200 Góra, Poland",Match,Google
+Sklep 90,"GRODZISK MAZOWIECKI, ul. Matejki 11",52.1149187,20.6222794,"Jana Matejki 11, 05-825 Grodzisk Mazowiecki, Poland",Match,Google
+Sklep 91,"GRODZISK WIELKOPOLSKI, ul. Poznańska 36a",52.2224359,16.372393,"Poznańska 36A, 62-065 Grodzisk Wielkopolski, Poland",Match,Google
+Sklep 92,"GRUDZIĄDZ, ul. Chełmińska 114",53.471908,18.7436939,"Chełmińska 114, 86-300 Grudziądz, Poland",Match,Google
+Sklep 93,"GRUDZIĄDZ, ul. Legionów 40",53.498036,18.7638909,"Legionów 40, 86-302 Grudziądz, Poland",Match,Google
+Sklep 94,"GRYFICE, ul. Kościuszki 15",53.914824,15.1944749,"Tadeusza Kościuszki 15, 72-300 Gryfice, Poland",Match,Google
+Sklep 95,"GRYFINO, ul. Krasińskiego 77c",53.25412,14.497595,"Krasińskiego 77c, 74-100 Gryfino, Poland",Match,Google
+Sklep 96,"GUBIN, ul. 3 Maja 6",51.9520989,14.7282407,"3 Maja 6, 66-635 Gubin, Poland",Match,Google
+Sklep 97,"IŁAWA, ul. Smolki 23a",53.5840639,19.5628898,"Franciszka Smolki 23a, 14-202 Iława, Poland",Match,Google
+Sklep 98,"INOWROCŁAW, al. Niepodległości 35a",52.7850318,18.2544314,"aleja Niepodległości 35A, 88-110 Inowrocław, Poland",Match,Google
+Sklep 99,"INOWROCŁAW, ul. Św. Ducha 93",52.7967437,18.2752607,"Świętego Ducha 93, 88-110 Inowrocław, Poland",Match,Google
+Sklep 100,"JAROCIN, ul. Kościuszki 45",51.967265,17.498259,"Tadeusza Kościuszki 45, 63-200 Jarocin, Poland",Match,Google
+Sklep 101,"JASTRZĘBIE-ZDRÓJ, al. Jana Pawła II 2",49.9495159,18.5876839,"Aleja Jana Pawła II 2, 44-330 Jastrzębie-Zdrój, Poland",Match,Google
+Sklep 102,"JAWORZE, Bielska 35A",49.8063249,18.9476035,"Bielska 35a, 43-384 Jaworze, Poland",Match,Google
+Sklep 103,"JAWORZNO, ul. Grunwaldzka 165",50.212504,19.258336,"Grunwaldzka 165, 43-600 Jaworzno, Poland",Match,Google
+Sklep 104,"JAWORZNO, ul. Dąbrowska 7",50.2270167,19.2207854,"Dąbrowska 7, 43-603 Jaworzno, Poland",Match,Google
+Sklep 105,"JELENIA GÓRA, ul. Cieplicka 81",50.863608,15.6620498,"Cieplicka 81, 58-560 Jelenia Góra, Poland",Match,Google
+Sklep 106,"JELENIA GÓRA, al. Wojska Polskiego 13",50.9015845,15.744086,"aleja Wojska Polskiego 13, 58-500 Jelenia Góra, Poland",Match,Google
+Sklep 107,"JĘDRZEJÓW, ul. 11 Listopada 126",50.6482902,20.2916631,"11 Listopada 126, 28-300 Jędrzejów, Poland",Match,Google
+Sklep 108,"KALISZ, ul. Legionów 7",51.7537953,18.0836924,"Legionów 7, 62-800 Kalisz, Poland",Match,Google
+Sklep 109,"KALISZ, ul. Długa 2 - 4",51.7801509,18.090011,"Długa 2/4, 62-800 Kalisz, Poland",Match,Google
+Sklep 110,"KAMIEŃ POMORSKI, ul. Dworcowa 4",53.967348,14.775669,"Dworcowa 4, 72-400 Kamień Pomorski, Poland",Match,Google
+Sklep 111,"KAMIEŃ POMORSKI, ul. Moniuszki 4",53.9713518,14.7721877,"Stanisława Moniuszki 4, 72-400 Kamień Pomorski, Poland",Match,Google
+Sklep 112,"KARPACZ, ul. Konstytucji 3-go Maja 6b",50.7823987,15.7638017,"Konstytucji 3-ego Maja 3/6b, 58-540 Karpacz, Poland",Partial Match,Google
+Sklep 113,"KATOWICE, ul. Armii Krajowej 208",50.1964896,18.9784895,"Armii Krajowej 208, 40-750 Katowice, Poland",Match,Google
+Sklep 114,"KATOWICE, ul. Piotrowicka 98",50.2309236,18.9731748,"Piotrowicka 98, 40-724 Katowice, Poland",Match,Google
+Sklep 115,"KATOWICE, ul. Żelazna 23",50.2638803,19.0043469,"Żelazna 23, 40-851 Katowice, Poland",Match,Google
+Sklep 116,"KĘDZIERZYN-KOŹLE, ul. Kosmonautów 6",50.3468994,18.2196982,"Kosmonautów 6, 47-220 Kędzierzyn-Koźle, Poland",Match,Google
+Sklep 117,"KĘPNO, ul. Boczna 2",51.289467,17.996158,"Boczna 2, 63-600 Kępno, Poland",Match,Google
+Sklep 118,"KĘTRZYN, ul. Rynkowa 2",54.085466,21.3719359,"Rynkowa 2, 11-401 Kętrzyn, Poland",Match,Google
+Sklep 119,"KLUCZBORK, ul. Ossowskiego 58a",50.9858737,18.2085155,"Ossowskiego 58a, 46-203 Kluczbork, Poland",Match,Google
+Sklep 120,"KŁOBUCK, ul. Wieluńska 31d",50.9033872,18.9316884,"Wieluńska 31d, 42-100 Kłobuck, Poland",Match,Google
+Sklep 121,"KŁODAWA, ul. Poznańska 3",52.254981,18.912005,"Poznańska 3, 62-650 Kłodawa, Poland",Match,Google
+Sklep 122,"KNURÓW, ul. Mieszka I 6",50.2303974,18.6637696,"Mieszka I 6, 44-194 Knurów, Poland",Match,Google
+Sklep 123,"KOŁO, ul. PCK 2",52.202134,18.6297351,"PCK 2, 62-600 Koło, Poland",Match,Google
+Sklep 124,"KOŁOBRZEG, ul. Gryfitów 1",54.1745411,15.589154,"Gryfitów 1, 78-100 Kołobrzeg, Poland",Match,Google
+Sklep 125,"KOŁOBRZEG, ul. Grzybowska 3",54.1611,15.52299,"Grzybowska 3, 78-105 Kołobrzeg, Poland",Match,Google
+Sklep 126,"KOŁOBRZEG, ul. Jedności Narodowej 22 f",54.1749048,15.5509855,"Jedności Narodowej 22f, 78-100 Kołobrzeg, Poland",Match,Google
+Sklep 127,"KOMORNIKI, ul. Nizinna 10",52.3380463,16.8150009,"Nizinna 10, 62-052 Komorniki, Poland",Match,Google
+Sklep 128,"KONIN, ul. Chopina 24",52.231383,18.2589035,"Fryderyka Chopina 24, 62-510 Konin, Poland",Match,Google
+Sklep 129,"KONIN, ul.Szarych Szeregów 1 D",52.2084444,18.2553737,"Szarych Szeregów 1d, 62-500 Konin, Poland",Match,Google
+Sklep 130,"KOŃSKIE, ul. Warszawska 21",51.195163,20.4080901,"Warszawska 21, 26-200 Końskie, Poland",Match,Google
+Sklep 131,"KOSTRZYN NAD ODRĄ, ul. Handlowa 6",52.5854038,14.6518627,"Handlowa 6, 66-470 Kostrzyn nad Odrą, Poland",Match,Google
+Sklep 132,"KOSTRZYN WLKP., ul. Poznańska 118",52.397851,17.2083659,"Poznańska 118, 62-025 Kostrzyn, Poland",Match,Google
+Sklep 133,"KOSZALIN, ul. Poprzeczna 2",54.1824784,16.1843604,"Poprzeczna 2, 75-815 Koszalin, Poland",Match,Google
+Sklep 134,"KOSZALIN, ul. Śniadeckich 6",54.207562,16.203674,"Śniadeckich 6, 75-453 Koszalin, Poland",Match,Google
+Sklep 135,"KOSZALIN, ul. Witolda Pileckiego 10",54.192316,16.194523,"Pileckiego 10, 75-403 Koszalin, Poland",Match,Google
+Sklep 136,"KOSZALIN, ul. Władysława IV 46",54.204348,16.1857419,"Władysława IV 46, 75-347 Koszalin, Poland",Match,Google
+Sklep 137,"KOŚCIAN, ul. Surzyńskiego 11A",52.0807239,16.6385579,"Księdza Józefa Surzyńskiego 11a, 64-000 Kościan, Poland",Match,Google
+Sklep 138,"KOŚCIERZYNA, ul. Marii Skłodowskiej-Curie 11",54.122341,17.9706579,"Marii Skłodowskiej-Curie 11, 83-400 Kościerzyna, Poland",Match,Google
+Sklep 139,"KOWARY, ul. Dworcowa 15",50.7987486,15.8273724,"Dworcowa 15, 58-530 Kowary, Poland",Match,Google
+Sklep 140,"KOŻUCHÓW, ul. 22 Lipca 8",51.7447482,15.6053572,"22 Lipca 8, 67-120 Kożuchów, Poland",Match,Google
+Sklep 141,"KÓRNIK, ul. Poznańska 87",52.2559245,17.0770576,"Poznańska 87, 62-035 Kórnik, Poland",Match,Google
+Sklep 142,"KROSNO ODRZAŃSKIE, ul. 17 Pionierów 4",52.053522,15.114969,"Pionierów 4, 66-600 Krosno Odrzańskie, Poland",Match,Google
+Sklep 143,"KROTOSZYN, ul. Kobylinska 5",51.697739,17.42631,"Kobylińska 5, 63-700 Krotoszyn, Poland",Match,Google
+Sklep 144,"KWIDZYN, ul.Słowackiego 14",53.728333,18.940454,"Słowackiego 14, 82-500 Kwidzyn, Poland",Match,Google
+Sklep 145,"LEGIONOWO, ul.Olszankowa 56",52.421179,20.9281051,"Olszankowa 56, 05-119 Legionowo, Poland",Match,Google
+Sklep 146,"LEGIONOWO, ul. Zygmunta Krasińskiego 72",52.3972575,20.9192925,"Zygmunta Krasińskiego 72, 05-120 Legionowo, Poland",Match,Google
+Sklep 147,"LEGNICA, ul. Czarnieckiego 37",51.2104702,16.1797902,"Stefana Czarnieckiego 37, 59-200 Legnica, Poland",Match,Google
+Sklep 148,"LESZNO, ul. Zamenhofa 87h",51.8352049,16.5972769,"Zamenhofa 87H, 64-100 Leszno, Poland",Match,Google
+Sklep 149,"LESZNO, ul. Lipowa 41",51.8355672,16.5781952,"Lipowa 41, 64-100 Leszno, Poland",Match,Google
+Sklep 150,"LĘBORK, ul. Dąbrowskiego 4",54.540834,17.751984,"Dąbrowskiego 4, 84-300 Lębork, Poland",Match,Google
+Sklep 151,"LĘDZINY, ul. Lędzińska 16",50.140653,19.121311,"Lędzińska 16, 43-140 Lędziny, Poland",Match,Google
+Sklep 152,"LIBIĄŻ, ul. Oświęcimska 12",50.1062919,19.3249609,"Oświęcimska 12, 32-590 Libiąż, Poland",Match,Google
+Sklep 153,"LIPNO, ul. 22 stycznia 2",52.8476933,19.179301,"22 Stycznia 2, 87-600 Lipno, Poland",Match,Google
+Sklep 154,"LUBAŃ, ul. Rybacka 13",51.1173892,15.2933523,"Rybacka 13, 59-800 Lubań, Poland",Match,Google
+Sklep 155,"LUBICZ GÓRNY, ul. Bankowa 1",53.025722,18.771304,"Bankowa 1, 87-162 Lubicz Górny, Poland",Match,Google
+Sklep 156,"LUBIN, ul. Szpakowa 21",51.382612,16.2121045,"Szpakowa 21, 59-300 Lubin, Poland",Match,Google
+Sklep 157,"LUBLINIEC, ul. Cmentarna 2",50.668069,18.6920761,"Cmentarna 2, 42-700 Lubliniec, Poland",Match,Google
+Sklep 158,"LUBOŃ, ul. Żabikowska 34",52.345401,16.877407,"Żabikowska 34, 62-030 Luboń, Poland",Match,Google
+Sklep 159,"LUBSKO, ul. Kanałowa 2",51.790103,14.97168,"Kanałowa 2, 68-300 Lubsko, Poland",Match,Google
+Sklep 160,"LUZINO, ul. Ofiar Stutthofu 12 B",54.566034,18.103439,"Ofiar Stutthofu 12, 84-242 Luzino, Poland",Match,Google
+Sklep 161,"LWÓWEK ŚLĄSKI, ul. Betleja 2a",51.1093104,15.5924728,"Betleja 2a, 59-600 Lwówek Śląski, Poland",Match,Google
+Sklep 162,"ŁASK, ul. Górna 9",51.5901619,19.1304774,"Górna 9, 98-100 Łask, Poland",Match,Google
+Sklep 163,"ŁAZISKA GÓRNE, ul. Wyrska 8a",50.1361968,18.8740923,"Wyrska 8A, 43-170 Łaziska Górne, Poland",Match,Google
+Sklep 164,"ŁĘCZYCA, ul. Ozorkowska 27",52.0556259,19.2041039,"Ozorkowska 27, 99-101 Łęczyca, Poland",Match,Google
+Sklep 165,"ŁOBEZ, ul. Pocztowa 22a",53.638017,15.623663,"Pocztowa 22a, 73-150 Łobez, Poland",Match,Google
+Sklep 166,"ŁODYGOWICE, ul. Żywiecka 79",49.7299252,19.1317144,"Żywiecka 79, 34-325 Łodygowice, Poland",Match,Google
+Sklep 167,"ŁOMIANKI, ul. Warszawska 171",52.3447059,20.8723342,"Warszawska 171, 05-092 Łomianki, Poland",Match,Google
+Sklep 168,"ŁÓDŹ, ul. Zakładowa 38/40",51.7423742,19.561087,"NETTO, Zakładowa 38/40, 92-402 Łódź, Poland",Match,Google
+Sklep 169,"ŁÓDŹ, ul. Srebrzyńska 8",51.77415,19.4324599,"Srebrzyńska 8, 91-074 Łódź, Poland",Match,Google
+Sklep 170,"ŁÓDŹ, ul. Urocza 4",51.8246823,19.4357632,"Urocza 4, 91-495 Łódź, Poland",Match,Google
+Sklep 171,"ŁÓDŹ, ul. Pomorska 65A",51.777898,19.4695971,"Pomorska 65a, 90-218 Łódź, Poland",Match,Google
+Sklep 172,"ŁÓDŹ, ul. Byszewska 3",51.7941795,19.5928414,"Byszewska 3, 92-701 Łódź, Poland",Match,Google
+Sklep 173,"ŁÓDŹ, ul. Karola Adamieckiego 16",51.7611583,19.539445,"Karola Adamieckiego 16, 92-305 Łódź, Poland",Match,Google
+Sklep 174,"ŁÓDŹ, ul. Franciszkańska 142/157",51.798131,19.4602448,"Franciszkańska 142, 91-857 Łódź, Poland",Match,Google
+Sklep 175,"ŁÓDŹ, ul. Wojska Polskiego 2",51.7838229,19.4545278,"Jojne Pilcer, Wojska Polskiego 2, 90-001 Łódź, Poland",Match,Google
+Sklep 176,"ŁÓDŹ, ul. Maratońska 109A",51.737302,19.3847439,"Maratońska 109A, 94-007 Łódź, Poland",Match,Google
+Sklep 177,"MALBORK, ul. Sikorskiego 50",54.0326222,19.0406511,"Generała Władysława Sikorskiego 50, 82-200 Malbork, Poland",Match,Google
+Sklep 178,"MIASTKO, ul. Długa 11",54.003578,16.986201,"Długa 11, 77-201 Miastko, Poland",Match,Google
+Sklep 179,"MICHAŁOWICE-OSIEDLE, ul. Jesionowa 1F",52.1786748,20.8826426,"Jesionowa 1F, 05-816 Michałowice-Osiedle, Poland",Match,Google
+Sklep 180,"MIĘDZYRZECZ, ul. Waszkiewicza 35",52.448238,15.5770851,"Waszkiewicza 35, 66-300 Międzyrzecz, Poland",Partial Match,Google
+Sklep 181,"MIĘDZYZDROJE, ul. Gryfa Pomorskiego 17",53.9285013,14.4471763,"Gryfa Pomorskiego 17, 72-500 Międzyzdroje, Poland",Match,Google
+Sklep 182,"MIĘDZYZDROJE, ul. Polna 67",53.918725,14.435972,"Polna 67, 72-500 Międzyzdroje, Poland",Match,Google
+Sklep 183,"MILICZ, ul. Mikołaja Kopernika 2b",51.5228832,17.2683029,"Mikołaja Kopernika 2B, 56-300 Milicz, Poland",Match,Google
+Sklep 184,"MORZYCZYN, ul. Szczecińska 15b",53.352363,14.9096321,"Szczecińska 15B, 73-108 Morzyczyn, Poland",Match,Google
+Sklep 185,"MOSINA, ul. Kolejowa 33",52.243054,16.8533268,"Kolejowa 33, 62-050 Mosina, Poland",Match,Google
+Sklep 186,"MYSŁOWICE, ul. Generała Jerzego Ziętka 21",50.2244153,19.1534179,"Ziętka 21, 41-412 Mysłowice, Poland",Match,Google
+Sklep 187,"MYSZKÓW, ul. 1 Maja 2a",50.574694,19.3306339,"1 Maja 2A, 42-300 Myszków, Poland",Match,Google
+Sklep 188,"MYŚLIBÓRZ, ul. Lipowa 6",52.9259259,14.873425,"Lipowa 6, 74-300 Myślibórz, Poland",Match,Google
+Sklep 189,"NAKŁO NAD NOTECIĄ, ul. Dąbrowskiego 60",53.138197,17.5919246,"NETTO, Dąbrowskiego 60, 89-100 Nakło nad Notecią, Poland",Match,Google
+Sklep 190,"NIEMODLIN, ul. Parkowa",50.6416121,17.6285865,"Parkowa, 49-100 Niemodlin, Poland",Match,Google
+Sklep 191,"NOWE MIASTO LUBAWSKIE, ul. 3-go Maja 32",53.42232,19.59222,"Nowe Miasto Lubawskie, Poland",Partial Match,Google
+Sklep 192,"NOWOGARD, ul. 700 Lecia 22",53.6695287,15.1229249,"700-Lecia 22, 72-200 Nowogard, Poland",Match,Google
+Sklep 193,"NOWY DWÓR GDAŃSKI, ul. Morska 19",54.213866,19.11099,"Morska 19, 82-100 Nowy Dwór Gdański, Poland",Match,Google
+Sklep 194,"NOWY TOMYŚL, ul. Poznańska 22",52.316739,16.136862,"Poznańska 22, 64-300 Nowy Tomyśl, Poland",Match,Google
+Sklep 195,"NOWY TOMYŚL, ul. Kolejowa 8",52.308574,16.128411,"Kolejowa 8, 64-300 Nowy Tomyśl, Poland",Match,Google
+Sklep 196,"NYSA, ul. Rodziewiczówny 2",50.4634671,17.327402,"Rodziewiczówny 2, 48-304 Nysa, Poland",Match,Google
+Sklep 197,"NYSA, ul. Zwycięstwa 32",50.460382,17.345313,"Zwycięstwa 32, 48-300 Nysa, Poland",Match,Google
+Sklep 198,"OBORNIKI, ul. Piłsudskiego 43",52.6511136,16.8143837,"Marszałka Józefa Piłsudskiego 43, 64-600 Oborniki, Poland",Match,Google
+Sklep 199,"OLESNO, ul. Opolska 6",50.874718,18.4140729,"Opolska 6, 46-300 Olesno, Poland",Match,Google
+Sklep 200,"OLSZTYNEK, ul. Mrongowiusza 23",53.5855569,20.2880267,"Krzysztofa Mrongowiusza 23, 11-015 Olsztynek, Poland",Match,Google
+Sklep 201,"OŁAWA, ul. Jarosława Iwaszkiewicza 147",50.9535055,17.2719778,"Jarosława Iwaszkiewicza 147, 55-200 Oława, Poland",Match,Google
+Sklep 202,"OPOCZNO, ul. Piotrkowska 10",51.376725,20.284149,"Piotrkowska 10, 26-300 Opoczno, Poland",Match,Google
+Sklep 203,"OPOLE, ul. Fabryczna 31a",50.660949,17.9433803,"Fabryczna 31A, 45-349 Opole, Poland",Match,Google
+Sklep 204,"OPOLE, ul. Wiejska 149",50.6724177,17.9625429,"Wiejska 149, 46-020 Opole, Poland",Match,Google
+Sklep 205,"OPOLE, ul. Oleska 97",50.680667,17.938122,"Oleska 97, 46-020 Opole, Poland",Match,Google
+Sklep 206,"ORNETA, ul. 1-Maja 51",54.117753,20.141796,"1 Maja 51, 11-130 Orneta, Poland",Match,Google
+Sklep 207,"OSTRÓDA, Drwęcka 28",53.7039886,19.9679822,"Drwęcka 28, 14-100 Ostróda, Poland",Match,Google
+Sklep 208,"OSTRÓW WIELKOPOLSKI, ul. Kaliska 57",51.6502522,17.8280793,"Kaliska 57, 63-410 Ostrów Wielkopolski, Poland",Match,Google
+Sklep 209,"OSTRÓW WIELKOPOLSKI, ul. Marszałka Józefa Piłsudskiego 71",51.6417699,17.8233508,"Piłsudskiego 71, 63-410 Ostrów Wielkopolski, Poland",Match,Google
+Sklep 210,"OŚWIĘCIM, ul. Nideckiego 29",50.0483318,19.2129538,"Andrzeja Nideckiego 29, 32-600 Oświęcim, Poland",Match,Google
+Sklep 211,"OŚWIĘCIM, ul. Pilata 3",50.032992,19.232185,"Stanisława Pilata 3, 32-600 Oświęcim, Poland",Match,Google
+Sklep 212,"OZIMEK, ul. Wyzwolenia 1",50.678118,18.214183,"Wyzwolenia 1, 46-040 Ozimek, Poland",Match,Google
+Sklep 213,"PABIANICE, ul. Zamkowa 43-47",51.6649703,19.3463204,"Zamkowa 43-47, 95-200 Pabianice, Poland",Match,Google
+Sklep 214,"PALĘDZIE, ul. Malinowa M. 42",52.3757062,16.7340537,"Malinowa, 62-070 Palędzie, Poland",Partial Match,Google
+Sklep 215,"PASŁĘK, ul. Polna 2a",54.05747,19.661566,"Polna 2A, 14-400 Pasłęk, Poland",Match,Google
+Sklep 216,"PIASECZNO, ul. Puławska 29",52.080334,21.02309,"Puławska 29, 05-500 Piaseczno, Poland",Match,Google
+Sklep 217,"PIEKARY ŚLĄSKIE, ul. Papieża Jana Pawła II 28A",50.389648,18.951391,"ul. Papieża, Jana Pawła II 28A, 41-940 Piekary Śląskie, Poland",Match,Google
+Sklep 218,"PIESZYCE, ul. Ogrodowa 60",50.7076502,16.5777713,"Ogrodowa 60, 58-250 Pieszyce, Poland",Match,Google
+Sklep 219,"PIŁA, ul. Powst.Wielkopolskich 167",53.1631683,16.7590777,"Aleja Powstańców Wielkopolskich 167, 64-920 Piła, Poland",Match,Google
+Sklep 220,"PIŁA, ul. Bydgoska 78b",53.153827,16.753999,"Bydgoska 78B, 64-920 Piła, Poland",Match,Google
+Sklep 221,"PIŁA, ul. Wyspiańskiego 10",53.1479161,16.718892,"Stanisława Wyspiańskiego 10, 64-920 Piła, Poland",Match,Google
+Sklep 222,"PLESZEW, ul. Św. Ducha 4",51.8983024,17.7837451,"Świętego Ducha 4, 63-300 Pleszew, Poland",Match,Google
+Sklep 223,"PŁOCK, ul. Kobylińskiego 31",52.5511245,19.6748503,"aleja Floriana Kobylińskiego 31, 09-400 Płock, Poland",Match,Google
+Sklep 224,"PŁOCK, 11 Grupy Operacyjnej Narodowych Sił Zbrojnych 1",52.5583648,19.701943,"Narodowych Sił Zbrojnych 1, 09-400 Płock, Poland",Match,Google
+Sklep 225,"PŁOŃSK, ul. Warszawska 59",52.615946,20.3849749,"Warszawska 59, 09-100 Płońsk, Poland",Match,Google
+Sklep 226,"PNIEWY, ul. Poznańska 50A",52.5054222,16.2687096,"Poznańska 50A, 62-045 Pniewy, Poland",Match,Google
+Sklep 227,"POLICE, ul. Piłsudskiego 43",53.543241,14.566869,"Marszałka Józefa Piłsudskiego 43, 72-010 Police, Poland",Match,Google
+Sklep 228,"POLKOWICE, ul. Młyńska 5",51.5048893,16.0660671,"Młyńska 5, 59-100 Polkowice, Poland",Match,Google
+Sklep 229,"POŁCZYN ZDRÓJ, ul. Świerczewskiego 1a",53.7697003,16.094268,"Słoneczna 1a, 78-320 Połczyn-Zdrój, Poland",Match,Google
+Sklep 230,"POZNAŃ, ul. Szarotkowa 21",52.3784923,16.8240087,"Szarotkowa 21, 60-175 Poznań, Poland",Match,Google
+Sklep 231,"POZNAŃ, ul. Polna 28",52.4115693,16.895705,"Polna 28, 61-001 Poznań, Poland",Match,Google
+Sklep 232,"POZNAŃ, ul. Kasprzaka 13",52.3941104,16.8964744,"Kasprzaka 13, 60-216 Poznań, Poland",Match,Google
+Sklep 233,"POZNAŃ, oś. Przyjaźni 125A",52.4311384,16.9295785,"osiedle Przyjaźni 125A, 61-689 Poznań, Poland",Match,Google
+Sklep 234,"POZNAŃ, os. Władysława Łokietka 102",52.4494169,16.941837,"osiedle Władysława Łokietka 102, 61-614 Poznań, Poland",Match,Google
+Sklep 235,"POZNAŃ, os. Stare Żegrze 109",52.3834759,16.9668981,"Osiedle Stare Żegrze 109, 61-249 Poznań, Poland",Match,Google
+Sklep 236,"POZNAŃ, ul. Aleje Solidarności 50",52.4352541,16.9225692,"Aleje Solidarności 50, 61-696 Poznań, Poland",Match,Google
+Sklep 237,"POZNAŃ, ul. Grunwaldzka 104a",52.3967134,16.8693945,"Grunwaldzka 104A, 61-001 Poznań, Poland",Match,Google
+Sklep 238,"POZNAŃ, ul. Czeremchowa 3-5",52.3742427,16.8955071,"Czeremchowa 3/5, 61-474 Poznań, Poland",Match,Google
+Sklep 239,"POZNAŃ, ul. Poznańska 62",52.4139019,16.9100997,"Poznańska, Poznań, Poland",Match,Google
+Sklep 240,"POZNAŃ, ul. Skibowa 16a",52.3634832,17.0096015,"Skibowa 16A, 61-312 Poznań, Poland",Match,Google
+Sklep 241,"POZNAŃ, ul. Jana Brzechwy 56",52.4121908,16.8325634,"Jana Brzechwy 56, 60-195 Poznań, Poland",Match,Google
+Sklep 242,"POZNAŃ, ul. Górna Wilda 74/69",52.3975117,16.9244949,"Górna Wilda 74, 61-567 Poznań, Poland",Match,Google
+Sklep 243,"PRASZKA, ul. Szosa Gdańska 1",51.0603837,18.468048,"Szosa Gańska, 46-320, Poland",Partial Match,Google
+Sklep 244,"PRZECŁAW, Warzymice 32B",53.391308,14.484684,"Warzymice 32B, 72-005, Poland",Match,Google
+Sklep 245,"PRZEŹMIEROWO, ul. Rynkowa 121",52.4185818,16.789703,"Rynkowa 121, 62-081 Przeźmierowo, Poland",Match,Google
+Sklep 246,"PUCK, ul. Obwodowa 2",54.7082788,18.3945626,"Obwodowa 2, 84-100 Puck, Poland",Match,Google
+Sklep 247,"PYRZYCE, ul. Zabytkowa 1",53.141182,14.892823,"Zabytkowa 1, 74-200 Pyrzyce, Poland",Match,Google
+Sklep 248,"PYRZYCE, ul. Szczecińska 2a",53.1501149,14.8871475,"Szczecińska 2a, 74-200 Pyrzyce, Poland",Match,Google
+Sklep 249,"PYSKOWICE, ul. Chopina 9a",50.403672,18.62742,"Szopena 9A, 44-120 Pyskowice, Poland",Match,Google
+Sklep 250,"RACIBÓRZ, ul. Opawska 73",50.0831531,18.2099564,"Opawska 73, 47-400 Racibórz, Poland",Match,Google
+Sklep 251,"RADLIN, ul. Józefa Rymera 27",50.0474279,18.4717593,"Józefa Rymera 27, 44-310 Radlin, Poland",Match,Google
+Sklep 252,"RADOMSKO, ul. Piramowicza 2",51.0798977,19.4496803,"Piramowicza 2, 97-500 Radomsko, Poland",Match,Google
+Sklep 253,"RAWA MAZOWIECKA, ul. Biała 2",51.7708018,20.2638291,"Biała 2, 96-200 Rawa Mazowiecka, Poland",Match,Google
+Sklep 254,"RUDA SLASKA, ul. Wojciecha Korfantego 51",50.2686582,18.895091,"Wojciecha Korfantego 51, 41-705 Ruda Śląska, Poland",Match,Google
+Sklep 255,"RUDA ŚLĄSKA, ul. Pokoju 1a",50.284608,18.877722,"Pokoju 1a, 41-717 Ruda Śląska, Poland",Match,Google
+Sklep 256,"RUDA ŚLĄSKA, ul. Oświęcimska 106",50.2530847,18.9074063,"Oświęcimska 106, 41-707 Ruda Śląska, Poland",Match,Google
+Sklep 257,"RUMIA, ul. Dąbrowskiego 2a",54.570033,18.389523,"Generała Henryka Dąbrowskiego 2A, 84-230 Rumia, Poland",Match,Google
+Sklep 258,"RYBNIK, ul. Sławików 4a",50.0945786,18.5346598,"Sławików 4a, 44-200 Rybnik, Poland",Match,Google
+Sklep 259,"RYBNIK, ul. Kupiecka 25",50.0661741,18.5501036,"Kupiecka 25, 44-206 Rybnik, Poland",Match,Google
+Sklep 260,"RYPIN, ul. Mławska 47a",53.066052,19.425127,"Mławska 47A, 87-500 Rypin, Poland",Match,Google
+Sklep 261,"SEROCK, ul. Pułtuska 3",52.5109299,21.0688738,"Pułtuska 3, 05-140 Serock, Poland",Match,Google
+Sklep 262,"SĘPÓLNO KRAJEŃSKIE, ul. Tadeusza Kościuszki 15k",53.4533838,17.5329388,"Tadeusza Kościuszki 15, 89-400 Sępólno Krajeńskie, Poland",Match,Google
+Sklep 263,"SIERPC, ul. Konstytucji 3 maja 13",52.85305,19.6596339,"Konstytucji 3 Maja 13, 09-200 Sierpc, Poland",Match,Google
+Sklep 264,"SKAWINA, ul. Wspólna 7",49.9759458,19.8305232,"Wspólna 7, 32-050 Skawina, Poland",Match,Google
+Sklep 265,"SKIERNIEWICE, ul. Batorego 36",51.9528642,20.1421332,"Stefana Batorego 36, 96-100 Skierniewice, Poland",Match,Google
+Sklep 266,"SKÓRZEWO, ul. Poznańska 98",52.3960673,16.8006275,"Poznańska 98, 60-185 Skórzewo, Poland",Match,Google
+Sklep 267,"SKWIERZYNA, ul. Poznańska 1",52.59935,15.506576,"Poznańska 1, 66-440 Skwierzyna, Poland",Match,Google
+Sklep 268,"SŁUBICE, ul. Wojska Polskiego 6b",52.35419,14.562027,"Wojska Polskiego 6B, 69-100 Słubice, Poland",Match,Google
+Sklep 269,"SŁUPCA, ul. Warszawska 12",52.286508,17.875339,"Warszawska 12, 62-400 Słupca, Poland",Match,Google
+Sklep 270,"SŁUPSK, ul. Małcużyńskiego 3",54.4615782,17.0013149,"Witolda Małcużyńskiego 3, 76-200 Słupsk, Poland",Match,Google
+Sklep 271,"SŁUPSK, ul. Szafranka 1",54.4585784,17.0611473,"Franciszka Szafranka 1, 76-200 Słupsk, Poland",Match,Google
+Sklep 272,"SŁUPSK, ul. Stefana Banacha 2A",54.4691656,17.0094565,"Stefana Banacha 2a, 76-200 Słupsk, Poland",Match,Google
+Sklep 273,"SŁUPSK, ul. Psie Pole 9",54.465693,17.0398371,"Psie Pole 9, 76-200 Słupsk, Poland",Match,Google
+Sklep 274,"SŁUPSK, ul. Malinowa 2 A",54.4811613,17.0494044,"Malinowa 2A, 76-200 Słupsk, Poland",Match,Google
+Sklep 275,"SOLEC KUJAWSKI, ul. Leśna 2",53.0786019,18.2214799,"Leśna 2, 86-050 Solec Kujawski, Poland",Match,Google
+Sklep 276,"SOSNOWIEC, al. Józefa Mireckiego 29",50.2826347,19.1201911,"aleja Józefa Mireckiego 29, 41-209 Sosnowiec, Poland",Match,Google
+Sklep 277,"SOSNOWIEC, ul. Krzysztofa Kamila Baczyńskiego 25 d",50.2895807,19.0825381,"Baczyńskiego 25d, 41-203 Sosnowiec, Poland",Match,Google
+Sklep 278,"STARGARD SZCZECIŃSKI, ul. Bolesława Chrobrego 8/2",53.3388198,15.0447038,"Bolesława Chrobrego 8, 73-110 Stargard, Poland",Match,Google
+Sklep 279,"STARGARD, ul. Słoneczna 2",53.3392856,15.020303,"Słoneczna 2, 73-110 Stargard, Poland",Match,Google
+Sklep 280,"STARGARD, ul. Piłsudskiego 19",53.3424038,15.0344324,"Marszałka Józefa Piłsudskiego 19, 73-100 Stargard, Poland",Match,Google
+Sklep 281,"STARGARD, ul. Wyszyńskiego 12",53.3385474,15.0333482,"Kardynała Stefana Wyszyńskiego 12, 73-110 Stargard, Poland",Match,Google
+Sklep 282,"STAROGARD GDAŃSKI, ul. Lubichowska 5",53.9642947,18.5268843,"Lubichowska 5, 83-250 Starogard Gdański, Poland",Match,Google
+Sklep 283,"STĘSZEW, ul. Błonie 7",52.277946,16.689698,"Błonie 7, 62-060 Stęszew, Poland",Match,Google
+Sklep 284,"STRASZYN, ul. Objazdowa 5A",54.27899,18.593321,"Objazdowa 5A, 83-010 Straszyn, Poland",Match,Google
+Sklep 285,"STRZEGOM, ul. Kasztelańska 15",50.9591082,16.3521561,"Kasztelańska 15, 58-150 Strzegom, Poland",Match,Google
+Sklep 286,"STRZELCE KRAJEŃSKIE, ul. Chrobrego 15",52.8793462,15.5337897,"Chrobrego 15, 66-500 Strzelce Krajeńskie, Poland",Match,Google
+Sklep 287,"STRZELCE KRAJEŃSKIE, Al. Wolności 6",52.87417,15.533536,"aleja Wolności 6, 66-500 Strzelce Krajeńskie, Poland",Match,Google
+Sklep 288,"STRZELIN, ul. Wojska Polskiego 16",50.7789159,17.067836,"Wojska Polskiego 16, 57-100 Strzelin, Poland",Match,Google
+Sklep 289,"SULECHÓW, ul. 1-go Maja 10",52.0831645,15.6253179,"ul. 1-go Maja 10, 69-200 Sulechów, Poland",Match,Google
+Sklep 290,"SULĘCIN, ul. Żeromskiego 2c",52.4396357,15.1160942,"Stefana Żeromskiego 2c, 69-200 Sulęcin, Poland",Match,Google
+Sklep 291,"SYCÓW, ul. Kolejowa 1c",51.303676,17.716581,"Kolejowa 1C, 56-500 Syców, Poland",Match,Google
+Sklep 292,"SZAMOTUŁY, Al. Jana Pawła II 10",52.6105469,16.586128,"aleja Jana Pawła II 10, 64-500 Szamotuły, Poland",Match,Google
+Sklep 293,"SZCZECIN, ul. Modra 116",53.4551203,14.4725975,"Modra 116, 70-846 Szczecin, Poland",Match,Google
+Sklep 294,"SZCZECIN, ul. Chmurna 1",53.474985,14.5195524,"Chmurna 1, 71-493 Szczecin, Poland",Match,Google
+Sklep 295,"SZCZECIN, ul. Dąbska 2",53.3708875,14.6613752,"Dąbska 2, 70-789 Szczecin, Poland",Match,Google
+Sklep 296,"SZCZECIN, ul. E. Gierczak 24",53.396157,14.666824,"Emilii Gierczak 24, 70-823 Szczecin, Poland",Match,Google
+Sklep 297,"SZCZECIN, ul. Duńska 14",53.4590212,14.5421132,"Duńska 14, 71-795 Szczecin, Poland",Match,Google
+Sklep 298,"SZCZECIN, ul. Firlika 17",53.440459,14.5748888,"Teofila Firlika 17, 71-637 Szczecin, Poland",Match,Google
+Sklep 299,"SZCZECIN, ul. Kadłubka 39",53.5386314,14.5711422,"Kadłubka 39, 72-010 Police, Poland",Match,Google
+Sklep 300,"SZCZECIN, ul. Krzywoustego 9-10",53.426643,14.5424321,"Bolesława Krzywoustego 9, 70-246 Szczecin, Poland",Match,Google
+Sklep 301,"SZCZECIN, ul. Łukasińskiego 110c",53.439976,14.479587,"Łukasińskiego 110C, 71-215 Szczecin, Poland",Match,Google
+Sklep 302,"SZCZECIN, ul. Metalowa 63A",53.3632312,14.5905409,"Metalowa 63a, 70-726 Szczecin, Poland",Match,Google
+Sklep 303,"SZCZECIN, ul. Niepodległości 13",53.425574,14.551782,"aleja Niepodległości 13, 70-202 Szczecin, Poland",Match,Google
+Sklep 304,"SZCZECIN, ul. Narutowicza 13e",53.42226,14.538428,"Gabriela Narutowicza 13E, 70-240 Szczecin, Poland",Match,Google
+Sklep 305,"SZCZECIN, ul. Włodzimierza Ostoi-Zagórskiego 1",53.495108,14.582585,"Włodzimierza Ostoi-Zagórskiego 1, 71-837 Szczecin, Poland",Match,Google
+Sklep 306,"SZCZECIN, ul. Struga 42",53.3800752,14.6652136,"Struga 42, 70-786 Szczecin, Poland",Match,Google
+Sklep 307,"SZCZECIN, ul. Przyszłości 29",53.359265,14.745017,"Przyszłości 29, 70-893 Szczecin, Poland",Match,Google
+Sklep 308,"SZCZECIN, ul. Smolańska 11",53.4024392,14.5282948,"Smolańska 11, 70-000 Szczecin, Poland",Match,Google
+Sklep 309,"SZCZECIN, ul. Ks. Piotra Ściegiennego 25/1",53.4318605,14.5316015,"Księdza Piotra Ściegiennego 25, 70-354 Szczecin, Poland",Match,Google
+Sklep 310,"SZCZECIN, ul. Zaleskiego 2d/1",53.4442517,14.5222924,"Bohdana Zaleskiego 2d, 70-495 Szczecin, Poland",Match,Google
+Sklep 311,"SZCZECIN, ul. Zawadzkiego 141",53.4554009,14.4964955,"Tadeusza Zawadzkiego 141, 71-246 Szczecin, Poland",Match,Google
+Sklep 312,"SZCZECIN, ul. Zielonogórska 30",53.427862,14.510028,"Zielonogórska 30, 71-083 Szczecin, Poland",Match,Google
+Sklep 313,"SZCZECINEK, ul. Wyszyńskiego 38",53.7067736,16.6990047,"Kardynała Stefana Wyszyńskiego 38, 78-400 Szczecinek, Poland",Match,Google
+Sklep 314,"SZKLARSKA PORĘBA, ul. Turystyczna 8a",50.8238655,15.5225887,"Turystyczna 8A, 58-580 Szklarska Poręba, Poland",Match,Google
+Sklep 315,"SZPROTAWA, ul. Niepodległości 25",51.564676,15.532489,"Niepodległości 25, 67-300 Szprotawa, Poland",Match,Google
+Sklep 316,"SZTUM, ul. Mickiewicza 14",53.917128,19.0370269,"Adama Mickiewicza 14, 82-400 Sztum, Poland",Match,Google
+Sklep 317,"SZUBIN, ul. Kcyńska 41a",53.00472,17.7268979,"Kcyńska 41A, 89-200 Szubin, Poland",Match,Google
+Sklep 318,"ŚRODA WLKP., ul. 20 Października 22",52.2257544,17.2743023,"20 Października 22, 63-000 Środa Wielkopolska, Poland",Match,Google
+Sklep 319,"ŚWIDNICA, ul. Gdyńska 11",50.8488339,16.487979,"Gdyńska 11, 58-100 Świdnica, Poland",Match,Google
+Sklep 320,"ŚWIDNICA, ul. Pańska 2B",50.844106,16.488832,"Pańska 2B, 58-100 Świdnica, Poland",Match,Google
+Sklep 321,"ŚWIDWIN, ul. Wojska Polskiego 4 A",53.772104,15.772827,"Wojska Polskiego 4A, 78-300 Świdwin, Poland",Match,Google
+Sklep 322,"ŚWIEBODZIN, ul. Piłsudskiego 35a",52.248204,15.536232,"Marszałka Józefa Piłsudskiego 35a, 66-200 Świebodzin, Poland",Match,Google
+Sklep 323,"ŚWIEBODZIN, ul. Sukiennicza 32",52.255185,15.5317149,"Ul. Sukiennicza 32, 66-200 Świebodzin, Poland",Match,Google
+Sklep 324,"ŚWIERKLANY, ul. Kościelna 6",50.0191283,18.578755,"Kościelna 6, 44-266 Świerklany, Poland",Match,Google
+Sklep 325,"ŚWINOUJŚCIE, ul. Grunwaldzka 97 b/3",53.906649,14.24548,"Grunwaldzka 97/b/3, 72-600 Świnoujście, Poland",Match,Google
+Sklep 326,"ŚWINOUJŚCIE, ul. Grunwaldzka 21",53.905297,14.241671,"Grunwaldzka 21, 72-600 Świnoujście, Poland",Match,Google
+Sklep 327,"ŚWINOUJŚCIE, ul. Szkolna 4",53.903858,14.231039,"Szkolna 4, 72-600 Świnoujście, Poland",Match,Google
+Sklep 328,"TCZEW, ul. Gdańska 35a",54.098126,18.7843109,"Gdańska 35A, 83-110 Tczew, Poland",Match,Google
+Sklep 329,"TOMASZÓW MAZOWIECKI, ul. Warszawska 59/63",51.5408649,20.01129,"Warszawska 59, 97-200 Tomaszów Mazowiecki, Poland",Match,Google
+Sklep 330,"TORUŃ, ul. Polna 8",53.0338544,18.5834588,"Polna 8, 87-100 Toruń, Poland",Match,Google
+Sklep 331,"TORUŃ, ul. Niesiołowskiego 23a",53.0305495,18.6751568,"Ulica Niesiołowskiego 23, 87-100 Toruń, Poland",Match,Google
+Sklep 332,"TORUŃ, ul. Dąbrowskiego 26",53.0150115,18.6094246,"Generała Jana Henryka Dąbrowskiego, 87-100 Toruń, Poland",Match,Google
+Sklep 333,"TRZCIANKA, os. Poniatowskiego 2",53.0421447,16.4442426,"Osiedle Stanisława Poniatowskiego 2, 64-980 Trzcianka, Poland",Match,Google
+Sklep 334,"TRZEBIATÓW, ul. Kołobrzeska 1b",54.0652552,15.2734078,"Kołobrzeska 1b, 72-320 Trzebiatów, Poland",Match,Google
+Sklep 335,"TRZEBNICA, ul. Wrocławska 14 a",51.3011868,17.059189,"Wrocławska 14a, 55-100 Trzebnica, Poland",Match,Google
+Sklep 336,"TUCHOLA, ul. Pocztowa 4",53.586714,17.863448,"Pocztowa 4, 89-500 Tuchola, Poland",Match,Google
+Sklep 337,"TUREK, ul. Uniejowska 28",52.0121828,18.5089115,"Uniejowska 28, 62-700 Turek, Poland",Match,Google
+Sklep 338,"TYCHY, ul. ks.bp.Juliusza Burschego 13",50.1296309,18.970712,"Burschego 13, 43-100 Tychy, Poland",Match,Google
+Sklep 339,"TYCHY, ul. Borowa 150",50.1114857,18.9617364,"Borowa 150, 43-100 Tychy, Poland",Match,Google
+Sklep 340,"USTKA, ul. Sprzymierzeńców 20",54.583126,16.859082,"Sprzymierzeńców 20, 76-270 Ustka, Poland",Match,Google
+Sklep 341,"WAŁBRZYCH, ul. Wrocławska 26a",50.80383,16.2940559,"Wrocławska 26A, 58-309 Wałbrzych, Poland",Match,Google
+Sklep 342,"WAŁBRZYCH, ul. Nowy Świat 2a",50.770014,16.2747602,"Nowy Świat 2A, 58-300 Wałbrzych, Poland",Match,Google
+Sklep 343,"WAŁCZ, ul. Wojska Polskiego 57",53.276631,16.4828009,"Wojska Polskiego 57, 78-600 Wałcz, Poland",Match,Google
+Sklep 344,"WARKA, ul. Puławska 9",51.788548,21.183266,"Puławska 9, 05-660 Warka, Poland",Match,Google
+Sklep 345,"WARSZAWA, ul. Leona Berensona 30",52.3241836,21.0646527,"Leona Berensona 30, 03-289 Warszawa, Poland",Match,Google
+Sklep 346,"WARSZAWA, ul. Wisełki 6",52.1867068,21.1879998,"Wisełki 6, 04-830 Warszawa, Poland",Match,Google
+Sklep 347,"WARSZAWA, ul. Zwoleńska 59",52.2014189,21.1491643,"Zwoleńska 59, 04-761 Warszawa, Poland",Match,Google
+Sklep 348,"WARSZAWA, ul. Wał Miedzeszyński 69",52.1548824,21.1838455,"Wał Miedzeszyński 69, 03-994 Warszawa, Poland",Match,Google
+Sklep 349,"WARSZAWA, ul. Swarożyca 10",52.2838374,20.9161671,"Swarożyca 10, 01-921 Warszawa, Poland",Match,Google
+Sklep 350,"WĄGROWIEC, ul. Przemysłowa 34",52.8090765,17.2106956,"Przemysłowa 34, 62-100 Wągrowiec, Poland",Match,Google
+Sklep 351,"WEJHEROWO, ul. Kwiatowa 15A",54.6065104,18.2237273,"Kwiatowa 15a, 84-200 Wejherowo, Poland",Match,Google
+Sklep 352,"WITNICA, ul. Ks. Józefa Bielaka 3h",52.6712946,14.9071237,"ul. Ks. Józefa Bielaka 3h, 66-460 Witnica, Poland",Match,Google
+Sklep 353,"WŁOCŁAWEK, ul. Okrzei 25",52.6473203,19.0684582,"Stefana Okrzei 25, 87-810 Włocławek, Poland",Match,Google
+Sklep 354,"WŁOCŁAWEK, ul. Polna 26",52.6458643,19.0992878,"Polna 26, 87-800 Włocławek, Poland",Match,Google
+Sklep 355,"WOJKOWICE, ul. Sobieskiego 365",50.3671064,19.0171884,"Jana III Sobieskiego 365, 42-580 Wojkowice, Poland",Match,Google
+Sklep 356,"WOLA, ul. Pszczyńska 61",50.0156812,19.1118168,"Pszczyńska 61, 43-225 Wola, Poland",Match,Google
+Sklep 357,"WOLIN, ul. Mickiewicza 2c",53.8473432,14.6112692,"Mickiewicza 2C, 72-510 Wolin, Poland",Match,Google
+Sklep 358,"WOLSZTYN, ul. Spacerowa 30",52.1186638,16.1281357,"Spacerowa 30, 64-200 Wolsztyn, Poland",Match,Google
+Sklep 359,"WOŁÓW, ul. Wojska Polskiego 8",51.3328831,16.6369016,"Wojska Polskiego 8, 56-100 Wołów, Poland",Match,Google
+Sklep 360,"WROCŁAW, ul. Szybowcowa 23",51.129937,16.9677859,"Szybowcowa 23, 54-132 Wrocław, Poland",Match,Google
+Sklep 361,"WROCŁAW, ul. Kiełczowska 42",51.1468226,17.1234544,"Kiełczowska 42, 51-315 Wrocław, Poland",Match,Google
+Sklep 362,"WROCŁAW, ul. Stryjska 2",51.0972875,16.9520033,"Stryjska 2, 54-613 Wrocław, Poland",Match,Google
+Sklep 363,"WROCŁAW, Nowodworska 17a",51.115075,16.965521,"Nowodworska 17A, 54-433 Wrocław, Poland",Match,Google
+Sklep 364,"WROCŁAW, ul. Sołtysowicka 17",51.140551,17.0706577,"Sołtysowicka 17, 51-168 Wrocław, Poland",Match,Google
+Sklep 365,"WRONKI, ul. Mickiewicza 15",52.7098225,16.3785227,"Adama Mickiewicza 15, 64-510 Wronki, Poland",Match,Google
+Sklep 366,"WRZEŚNIA, ul. Stefana Batorego 2a",52.3225667,17.5809467,"Batorego 2A, 62-302 Września, Poland",Match,Google
+Sklep 367,"WSCHOWA, ul. Moniuszki 8",51.801484,16.319662,"Moniuszki 8, 67-400 Wschowa, Poland",Match,Google
+Sklep 368,"ZABRZE, al. Bohaterów Monte Cassino 18",50.2982889,18.7934214,"aleja Bohaterów Monte Cassino 18, 41-800 Zabrze, Poland",Match,Google
+Sklep 369,"ZAWADZKIE, ul. Stawowa 14",50.606611,18.482778,"Stawowa 14, 47-120 Zawadzkie, Poland",Match,Google
+Sklep 370,"ZAWIERCIE, ul. Obrońców Poczty Gdańskiej 10",50.4863325,19.4154513,"Obrońców Poczty Gdańskiej 10, 42-400 Zawiercie, Poland",Match,Google
+Sklep 371,"ZBĄSZYŃ, ul. 17 Stycznia 53b",52.256286,15.904217,"17 Stycznia 53B, 64-360 Zbąszyń, Poland",Match,Google
+Sklep 372,"ZDUŃSKA WOLA, Plac Wolności 20A",51.6036019,18.934867,"plac Wolności 20a, 98-220 Zduńska Wola, Poland",Match,Google
+Sklep 373,"ZDZIESZOWICE, ul. Filarskiego 4",50.423085,18.126525,"Filarskiego 4, 47-330 Zdzieszowice, Poland",Match,Google
+Sklep 374,"ZELÓW, ul. Żeromskiego 19",51.467306,19.2183977,"Żeromskiego 19, 97-425 Zelów, Poland",Match,Google
+Sklep 375,"ZIELONA GÓRA, ul. Działkowa 2",51.943601,15.4788401,"Działkowa 2, 65-775 Zielona Góra, Poland",Match,Google
+Sklep 376,"ZIELONA GÓRA, ul. Ogrodowa 5",51.9318386,15.5014178,"Ogrodowa 5, 65-461 Zielona Góra, Poland",Match,Google
+Sklep 377,"ZIELONA GÓRA, ul. Ułańska 1",51.946369,15.508922,"Ułańska 1, 65-033 Zielona Góra, Poland",Match,Google
+Sklep 378,"ZIĘBICE, ul. Mokra 1a",50.5988891,17.0362684,"Mokra 1a, 57-220 Ziębice, Poland",Match,Google
+Sklep 379,"ZŁOCIENIEC, ul. Połczyńska 10a",53.536322,16.014243,"Połczyńska 10A, 78-520 Złocieniec, Poland",Match,Google
+Sklep 380,"ZŁOTORYJA, ul. Legnicka 4",51.1265421,15.9204382,"Legnicka 4, 59-500 Złotoryja, Poland",Match,Google
+Sklep 381,"ZŁOTÓW, ul. Kolejowa 9A",53.35959,17.0528639,"Kolejowa 9A, 77-400 Złotów, Poland",Match,Google
+Sklep 382,"ŻARY, ul. Katowicka 22",51.6340628,15.1244674,"Katowicka 22, 68-200 Żary, Poland",Match,Google
+Sklep 383,"ŻNIN, ul. 700-Lecia 28c",52.846793,17.7315039,"700-lecia 28C, 88-400 Żnin, Poland",Match,Google
+Sklep 384,"ŻORY, ul. Dworcowa 12A",50.0476143,18.701806,"Dworcowa 12a, 44-240 Żory, Poland",Match,Google
